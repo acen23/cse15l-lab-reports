@@ -1,7 +1,9 @@
 # H1
 ## H2
 ### H3
+
 **bold text**
+
 *italicized text*
 > blockquote
 > 
@@ -11,7 +13,9 @@
 - First item
 - Second item
 - Third item
+
 `code`
+
 ---
 [home](https://acen23.github.io/cse15l-lab-reports/)
 ![pikachu running](https://media2.giphy.com/media/mtaWx98w7mX7y/giphy.gif)
