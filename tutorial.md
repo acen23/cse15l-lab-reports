@@ -1,4 +1,5 @@
 # TUTORIAL: How To Prepare Your Computer For Remotely Running CSE15L Assignments
+### Brought to you by Andrew Cen
 
 ![simu](https://acen23.github.io/cse15l-lab-reports/simu.jpeg)
 
