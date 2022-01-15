@@ -27,8 +27,7 @@ requirements to perform the remote access functions that you'll be using often. 
 >
 2. Now try those out after ssh'ing into the remote server, while also trying this additional command:
 >
-- `ls /home/linux/ieng6/cs15lwi22/cs15lwi22abc`
->
+- `ls /home/linux/ieng6/cs15lwi22/cs15lwi22abc` >
 Your commands should return similar results to this: ![ss3.1](https://acen23.github.io/cse15l-lab-reports/commands1.png) ![ss3.2](https://acen23.github.io/cse15l-lab-reports/commands2.png)
 
 ## Moving Files With `scp`
