@@ -67,6 +67,6 @@ Your commands should return similar results to this: ![ss3.1](https://acen23.git
 - You can also combine multiple commands on the same line in general by separating them with semicolons: `cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI` ![ss6.2](https://acen23.github.io/cse15l-lab-reports/optimize2.png)
 >
 2. By combining the techniques, you can log into the remote server and complete quick commands all with just a few lines. For example, let's compare the regular procedure with the quickest procedure of making local changes to a java file, and then copying and running remotely:
-- After making this local change below to the java file, the number of keystrokes to follow will be measured: ![optimize2.1](https://acen23.github.io/cse15l-lab-reports/optimize2.1.png)
-- The number of keystrokes for the following procedure was counted to be 125: ![optimize2.2](https://acen23.github.io/cse15l-lab-reports/optimize2.2.png)
-- The number of keystrokes for the optimized procedure was counted to be 118 (note that it only took one line of code): ![optimize2.3](https://acen23.github.io/cse15l-lab-reports/optimize2.3.png)
+- After making this local change below to the java file, the number of keystrokes to follow will be measured: ![optimize2.1](https://acen23.github.io/cse15l-lab-reports/optimize2-1.png)
+- The number of keystrokes for the following procedure was counted to be **125**: ![optimize2.2](https://acen23.github.io/cse15l-lab-reports/optimize2-2.png)
+- The number of keystrokes for the optimized procedure was counted to be **118** (note that it only took one line of code): ![optimize2.3](https://acen23.github.io/cse15l-lab-reports/optimize2-3.png)
