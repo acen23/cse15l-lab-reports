@@ -1,6 +1,9 @@
 # Lab Report 3: Testing MarkdownParse
 by Andrew Cen
 
+Our repository: [repository1](https://github.com/acen23/markdown-parse-main)
+Reviewed repository: [repository2](https://github.com/CatFish47/markdown-parse)
+
 ## 1. Snippet 1
 - For both implementations, the test case created was the same: ![snippet1test](https://acen23.github.io/cse15l-lab-reports/snippet-1-test.png)
 - For our implementation, this was the output: ![snippet1output1](https://acen23.github.io/cse15l-lab-reports/snippet-1-output-1.png)
