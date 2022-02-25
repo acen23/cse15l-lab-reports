@@ -1,4 +1,4 @@
-# Lab Report 3: Testing MarkdownParse
+# Lab Report 4: Testing MarkdownParse
 by Andrew Cen
 
 Our repository: [repository1](https://github.com/acen23/markdown-parse-main)
